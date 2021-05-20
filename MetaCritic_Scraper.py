@@ -36,7 +36,7 @@ from lxml import html
 #Setting up Selenium Webdriver
 
 def find_driver():
-
+    
     chrome_path = input(r"Enter path to your chrome driver ... Example: 'C:\Users\Dayans\Desktop\Other\chromedriver.exe' without quotes")
 
     driver = webdriver.Chrome(chrome_path)
