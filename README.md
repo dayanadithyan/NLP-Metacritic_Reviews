@@ -6,6 +6,3 @@
  
  Chromedriver required 
  
- Trial 1:
- 
- training logistic regression classifier on Dota 2 reviews and testing on valorant, drop in accuracy only 5%
